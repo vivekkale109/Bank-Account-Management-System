@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-The "Bank Account Management System" is a simple console-based application written in C.  
+The "Bank Account Management System" is a simple console-based application written in C.
 It allows users to perform basic banking operations such as:
 
 - Deposit Money
